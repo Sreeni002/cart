@@ -1,2 +1,2 @@
-source /params/params
-node server.js
+#source /params/params
+#node server.js
